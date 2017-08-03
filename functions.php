@@ -8,4 +8,11 @@ function theme_styles() {
 }
 add_action( ‘wp_enqueue_scripts’, ‘theme_styles’ );
 
+
+function theme_js() {
+
+	wp_register_script( ‘html5_shiv’, ‘<!—server link.js—>’ ‘’, ‘’, false );
+
+}
+
 ?>
