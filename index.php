@@ -5,12 +5,12 @@
 
 <title>Jumbotron Template for Bootstrap</title>
 
-<!—Bootstrap core CSS—>
+<!—-Bootstrap core CSS-—>
 <link href=“../..dis/css/bootstrap.min.css” rel=“stylesheet”>
 
-<!—Custom styles for this template
+<!—-Custom styles for this template
 <link href=“jumbotron.css” rel=“stylesheet”>
-—>
+—->
 
 </head>
 </html>
